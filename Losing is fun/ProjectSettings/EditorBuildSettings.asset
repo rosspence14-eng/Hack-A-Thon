@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Main Menu.unity
+    guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/MuseumHeist.unity
+    guid: fc63cfcd3d76eb348ae94960ca4efdb0
+  - enabled: 1
+    path: Assets/Scenes/Reporter.unity
+    guid: 8351ea4c7bfae1a43a6d326641d28a4b
+  - enabled: 1
+    path: Assets/Scenes/Cook.unity
+    guid: 903165a2e2380f94196b781f611adcb0
+  - enabled: 1
+    path: Assets/Scenes/Escape.unity
+    guid: 13938be97cbb02640a3d946041e6f4fd
+  - enabled: 1
+    path: Assets/Scenes/Dance.unity
+    guid: d702d4cfceccd6847a2a2543542f1cb7
+  - enabled: 1
+    path: Assets/Scenes/BedroomScene.unity
+    guid: 585ac57d03739b3479d367be4b48db69
+  - enabled: 1
+    path: Assets/Scenes/RestaurantScene.unity
+    guid: 6c78eaf4b6f4d6746b234ae9ca4377ab
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: d2842153a9f23b94f9033d5b17884831, type: 3}
+  m_UseUCBPForAssetBundles: 0
